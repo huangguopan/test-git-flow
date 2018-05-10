@@ -75,6 +75,7 @@
             <pushReleases>true</pushReleases>
             <pushHotfixes>true</pushHotfixes>
             <pushFeatures>true</pushFeatures>
+            <enableSshAgent>true</enableSshAgent>
             <allowSnapshots>true</allowSnapshots>
             <allowUntracked>true</allowUntracked>
           </configuration>
