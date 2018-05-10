@@ -72,6 +72,9 @@
               <versionTagPrefix>release-</versionTagPrefix>
             </flowInitContext>
             <releaseBranchVersionSuffix>RC</releaseBranchVersionSuffix>
+            <pushReleases>true</pushReleases>
+            <pushHotfixes>true</pushHotfixes>
+            <pushFeatures>true</pushFeatures>
             <allowSnapshots>true</allowSnapshots>
             <allowUntracked>true</allowUntracked>
           </configuration>
