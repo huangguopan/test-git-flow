@@ -80,7 +80,7 @@
     </pluginManagement>
   </build>
 
-  <!--分发配置-->
+  <!--分发配置    11-->
   <distributionManagement>
     <repository>
       <id>releases</id>
